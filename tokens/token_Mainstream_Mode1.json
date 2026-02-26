@@ -1,0 +1,184 @@
+{
+  "border-radius": {
+    "ms-full": {
+      "$type": "number",
+      "$value": "{border-radius.200}"
+    },
+    "ms-large": {
+      "$type": "number",
+      "$value": "{border-radius.8}"
+    },
+    "ms-medium": {
+      "$type": "number",
+      "$value": "{border-radius.6}"
+    },
+    "ms-none": {
+      "$type": "number",
+      "$value": "{border-radius.0}"
+    },
+    "ms-small": {
+      "$type": "number",
+      "$value": "{border-radius.4}"
+    },
+    "ms-xlarge": {
+      "$type": "number",
+      "$value": "{border-radius.12}"
+    }
+  },
+  "font": {
+    "letter-spacing": {
+      "ms-button-medium": {
+        "$type": "number",
+        "$value": "{font.letter-spacing.0}"
+      },
+      "ms-header-link-medium": {
+        "$type": "number",
+        "$value": "{font.letter-spacing.0}"
+      },
+      "ms-link-medium": {
+        "$type": "number",
+        "$value": "{font.letter-spacing.0}"
+      }
+    },
+    "line-height": {
+      "ms-button-medium": {
+        "$type": "number",
+        "$value": "{font.line-height.24}"
+      },
+      "ms-header-link-medium": {
+        "$type": "number",
+        "$value": "{font.line-height.22}"
+      },
+      "ms-link-medium": {
+        "$type": "number",
+        "$value": "{font.line-height.24}"
+      }
+    },
+    "size": {
+      "ms-button-medium": {
+        "$type": "number",
+        "$value": "{font.size.17}"
+      },
+      "ms-header-link-medium": {
+        "$type": "number",
+        "$value": "{font.size.15}"
+      },
+      "ms-link-medium": {
+        "$type": "number",
+        "$value": "{font.size.17}"
+      }
+    },
+    "weight": {
+      "ms-button-medium": {
+        "$type": "string",
+        "$value": "{font.weight.Medium-500}"
+      },
+      "ms-header-link-medium": {
+        "$type": "string",
+        "$value": "{font.weight.Medium-500}"
+      },
+      "ms-link-medium": {
+        "$type": "string",
+        "$value": "{font.weight.Medium-500}"
+      }
+    }
+  },
+  "margin": {
+    "ms-desktop": {
+      "$type": "number",
+      "$value": "{spacing.64}"
+    },
+    "ms-mobile": {
+      "$type": "number",
+      "$value": "{spacing.20}"
+    },
+    "ms-tablet": {
+      "$type": "number",
+      "$value": "{spacing.32}"
+    }
+  },
+  "size": {
+    "ms-medium": {
+      "$type": "number",
+      "$value": "{spacing.60}"
+    },
+    "ms-small": {
+      "$type": "number",
+      "$value": "{spacing.44}"
+    },
+    "ms-xsmall": {
+      "$type": "number",
+      "$value": "{spacing.36}"
+    }
+  },
+  "spacing": {
+    "desktop": {
+      "ms-large": {
+        "$type": "number",
+        "$value": "{spacing.32}"
+      },
+      "ms-medium": {
+        "$type": "number",
+        "$value": "{spacing.20}"
+      },
+      "ms-none": {
+        "$type": "number",
+        "$value": "{spacing.0}"
+      },
+      "ms-small": {
+        "$type": "number",
+        "$value": "{spacing.12}"
+      },
+      "ms-xlarge": {
+        "$type": "number",
+        "$value": "{spacing.48}"
+      },
+      "ms-xsmall": {
+        "$type": "number",
+        "$value": "{spacing.8}"
+      },
+      "ms-xxlarge": {
+        "$type": "number",
+        "$value": "{spacing.64}"
+      },
+      "ms-xxsmall": {
+        "$type": "number",
+        "$value": "{spacing.4}"
+      }
+    },
+    "mobile": {
+      "ms-large": {
+        "$type": "number",
+        "$value": "{spacing.28}"
+      },
+      "ms-medium": {
+        "$type": "number",
+        "$value": "{spacing.20}"
+      },
+      "ms-none": {
+        "$type": "number",
+        "$value": "{spacing.0}"
+      },
+      "ms-small": {
+        "$type": "number",
+        "$value": "{spacing.12}"
+      },
+      "ms-xlarge": {
+        "$type": "number",
+        "$value": "{spacing.38}"
+      },
+      "ms-xsmall": {
+        "$type": "number",
+        "$value": "{spacing.8}"
+      },
+      "ms-xxlarge": {
+        "$type": "number",
+        "$value": "{spacing.52}"
+      },
+      "ms-xxsmall": {
+        "$type": "number",
+        "$value": "{spacing.4}"
+      }
+    }
+  }
+}

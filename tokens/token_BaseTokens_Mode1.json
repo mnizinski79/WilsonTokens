@@ -1,0 +1,2255 @@
+{
+  "border-radius": {
+    "0": {
+      "$type": "number",
+      "$value": 0
+    },
+    "12": {
+      "$type": "number",
+      "$value": 10
+    },
+    "20": {
+      "$type": "number",
+      "$value": 20
+    },
+    "200": {
+      "$type": "number",
+      "$value": 500
+    },
+    "4": {
+      "$type": "number",
+      "$value": 4
+    },
+    "6": {
+      "$type": "number",
+      "$value": 6
+    },
+    "8": {
+      "$type": "number",
+      "$value": 8
+    }
+  },
+  "color": {
+    "background": {
+      "army": {
+        "bg-1": {
+          "$type": "color",
+          "$value": "{color.grayscale.0}"
+        },
+        "bg-2": {
+          "$type": "color",
+          "$value": "{color.grayscale.50}"
+        },
+        "bg-3": {
+          "$type": "color",
+          "$value": "#F0EEED"
+        },
+        "bg-4": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-5": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-inverse-1": {
+          "$type": "color",
+          "$value": "#1F4456"
+        },
+        "bg-inverse-2": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-inverse-3": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      },
+      "atwell-suites": {
+        "bg-1": {
+          "$type": "color",
+          "$value": "{color.grayscale.0}"
+        },
+        "bg-2": {
+          "$type": "color",
+          "$value": "#F4F2ED"
+        },
+        "bg-3": {
+          "$type": "color",
+          "$value": "#E8CEBD"
+        },
+        "bg-4": {
+          "$type": "color",
+          "$value": "#878D61"
+        },
+        "bg-5": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-inverse-1": {
+          "$type": "color",
+          "$value": "{color.grayscale.1200}"
+        },
+        "bg-inverse-2": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-inverse-3": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      },
+      "avid": {
+        "bg-1": {
+          "$type": "color",
+          "$value": "{color.grayscale.0}"
+        },
+        "bg-2": {
+          "$type": "color",
+          "$value": "{color.grayscale.50}"
+        },
+        "bg-3": {
+          "$type": "color",
+          "$value": "#68D2DF"
+        },
+        "bg-4": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-5": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-inverse-1": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-inverse-2": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-inverse-3": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      },
+      "candlewood-suites": {
+        "bg-1": {
+          "$type": "color",
+          "$value": "{color.grayscale.0}"
+        },
+        "bg-2": {
+          "$type": "color",
+          "$value": "{color.grayscale.50}"
+        },
+        "bg-3": {
+          "$type": "color",
+          "$value": "#F3EDE7"
+        },
+        "bg-4": {
+          "$type": "color",
+          "$value": "#D0DED8"
+        },
+        "bg-5": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-inverse-1": {
+          "$type": "color",
+          "$value": "#00205B"
+        },
+        "bg-inverse-2": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-inverse-3": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      },
+      "crowne-plaza": {
+        "bg-1": {
+          "$type": "color",
+          "$value": "{color.grayscale.0}"
+        },
+        "bg-2": {
+          "$type": "color",
+          "$value": "{color.grayscale.50}"
+        },
+        "bg-3": {
+          "$type": "color",
+          "$value": "#BFCAD0"
+        },
+        "bg-4": {
+          "$type": "color",
+          "$value": "#C5B9C5"
+        },
+        "bg-5": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-inverse-1": {
+          "$type": "color",
+          "$value": "#1D2534"
+        },
+        "bg-inverse-2": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-inverse-3": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      },
+      "even": {
+        "bg-1": {
+          "$type": "color",
+          "$value": "{color.grayscale.0}"
+        },
+        "bg-2": {
+          "$type": "color",
+          "$value": "{color.grayscale.50}"
+        },
+        "bg-3": {
+          "$type": "color",
+          "$value": "#D0D6D6"
+        },
+        "bg-4": {
+          "$type": "color",
+          "$value": "#EFE8E5"
+        },
+        "bg-5": {
+          "$type": "color",
+          "$value": "#E3EEFF"
+        },
+        "bg-inverse-1": {
+          "$type": "color",
+          "$value": "#164A45"
+        },
+        "bg-inverse-2": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-inverse-3": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      },
+      "garner": {
+        "bg-1": {
+          "$type": "color",
+          "$value": "{color.grayscale.0}"
+        },
+        "bg-2": {
+          "$type": "color",
+          "$value": "{color.grayscale.50}"
+        },
+        "bg-3": {
+          "$type": "color",
+          "$value": "#E6F4EE"
+        },
+        "bg-4": {
+          "$type": "color",
+          "$value": "#FBF8EB"
+        },
+        "bg-5": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-inverse-1": {
+          "$type": "color",
+          "$value": "{color.grayscale.1200}"
+        },
+        "bg-inverse-2": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-inverse-3": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      },
+      "holiday-inn": {
+        "bg-1": {
+          "$type": "color",
+          "$value": "{color.grayscale.0}"
+        },
+        "bg-2": {
+          "$type": "color",
+          "$value": "{color.grayscale.50}"
+        },
+        "bg-3": {
+          "$type": "color",
+          "$value": "#9BC5B7"
+        },
+        "bg-4": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-5": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-inverse-1": {
+          "$type": "color",
+          "$value": "#1C4B34"
+        },
+        "bg-inverse-2": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-inverse-3": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      },
+      "holiday-inn-club-vacation": {
+        "bg-1": {
+          "$type": "color",
+          "$value": "{color.grayscale.0}"
+        },
+        "bg-2": {
+          "$type": "color",
+          "$value": "{color.grayscale.50}"
+        },
+        "bg-3": {
+          "$type": "color",
+          "$value": "#F2F1E9"
+        },
+        "bg-4": {
+          "$type": "color",
+          "$value": "#CFE3E5"
+        },
+        "bg-5": {
+          "$type": "color",
+          "$value": "#CDE2DB"
+        },
+        "bg-inverse-1": {
+          "$type": "color",
+          "$value": "#1C4B34"
+        },
+        "bg-inverse-2": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-inverse-3": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      },
+      "holiday-inn-express": {
+        "bg-1": {
+          "$type": "color",
+          "$value": "{color.grayscale.0}"
+        },
+        "bg-2": {
+          "$type": "color",
+          "$value": "{color.grayscale.50}"
+        },
+        "bg-3": {
+          "$type": "color",
+          "$value": "#CFEBFF"
+        },
+        "bg-4": {
+          "$type": "color",
+          "$value": "#F2F7FE"
+        },
+        "bg-5": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-inverse-1": {
+          "$type": "color",
+          "$value": "#002D72"
+        },
+        "bg-inverse-2": {
+          "$type": "color",
+          "$value": "#1658B8"
+        },
+        "bg-inverse-3": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      },
+      "holiday-inn-niu": {
+        "bg-1": {
+          "$type": "color",
+          "$value": "{color.grayscale.0}"
+        },
+        "bg-2": {
+          "$type": "color",
+          "$value": "{color.grayscale.50}"
+        },
+        "bg-3": {
+          "$type": "color",
+          "$value": "#ECECEC"
+        },
+        "bg-4": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-5": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-inverse-1": {
+          "$type": "color",
+          "$value": "#0A1E14"
+        },
+        "bg-inverse-2": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-inverse-3": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      },
+      "holiday-inn-resorts": {
+        "bg-1": {
+          "$type": "color",
+          "$value": "{color.grayscale.0}"
+        },
+        "bg-2": {
+          "$type": "color",
+          "$value": "{color.grayscale.50}"
+        },
+        "bg-3": {
+          "$type": "color",
+          "$value": "#EBE5EF"
+        },
+        "bg-4": {
+          "$type": "color",
+          "$value": "#E0F0FF"
+        },
+        "bg-5": {
+          "$type": "color",
+          "$value": "#F2E8C2"
+        },
+        "bg-inverse-1": {
+          "$type": "color",
+          "$value": "#451C70"
+        },
+        "bg-inverse-2": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-inverse-3": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      },
+      "hualuxe": {
+        "bg-1": {
+          "$type": "color",
+          "$value": "{color.grayscale.0}"
+        },
+        "bg-2": {
+          "$type": "color",
+          "$value": "{color.grayscale.50}"
+        },
+        "bg-3": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-4": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-5": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-inverse-1": {
+          "$type": "color",
+          "$value": "#D31245"
+        },
+        "bg-inverse-2": {
+          "$type": "color",
+          "$value": "#231815"
+        },
+        "bg-inverse-3": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      },
+      "iberostar-joia": {
+        "bg-1": {
+          "$type": "color",
+          "$value": "{color.grayscale.0}"
+        },
+        "bg-2": {
+          "$type": "color",
+          "$value": "{color.grayscale.50}"
+        },
+        "bg-3": {
+          "$type": "color",
+          "$value": "#B8DDE1"
+        },
+        "bg-4": {
+          "$type": "color",
+          "$value": "#E9D0A4"
+        },
+        "bg-5": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-inverse-1": {
+          "$type": "color",
+          "$value": "#234789"
+        },
+        "bg-inverse-2": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-inverse-3": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      },
+      "iberostar-master-brand": {
+        "bg-1": {
+          "$type": "color",
+          "$value": "{color.grayscale.0}"
+        },
+        "bg-2": {
+          "$type": "color",
+          "$value": "{color.grayscale.50}"
+        },
+        "bg-3": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-4": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-5": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-inverse-1": {
+          "$type": "color",
+          "$value": "#002855"
+        },
+        "bg-inverse-2": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-inverse-3": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      },
+      "iberostar-selection": {
+        "bg-1": {
+          "$type": "color",
+          "$value": "{color.grayscale.0}"
+        },
+        "bg-2": {
+          "$type": "color",
+          "$value": "{color.grayscale.50}"
+        },
+        "bg-3": {
+          "$type": "color",
+          "$value": "#E6FF9D"
+        },
+        "bg-4": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-5": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-inverse-1": {
+          "$type": "color",
+          "$value": "#002855"
+        },
+        "bg-inverse-2": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-inverse-3": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      },
+      "iberostar-waves": {
+        "bg-1": {
+          "$type": "color",
+          "$value": "{color.grayscale.0}"
+        },
+        "bg-2": {
+          "$type": "color",
+          "$value": "{color.grayscale.50}"
+        },
+        "bg-3": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-4": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-5": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-inverse-1": {
+          "$type": "color",
+          "$value": "#002855"
+        },
+        "bg-inverse-2": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-inverse-3": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      },
+      "ihg": {
+        "bg-1": {
+          "$type": "color",
+          "$value": "{color.grayscale.0}"
+        },
+        "bg-2": {
+          "$type": "color",
+          "$value": "{color.grayscale.50}"
+        },
+        "bg-3": {
+          "$type": "color",
+          "$value": "#BFC9CE"
+        },
+        "bg-4": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-5": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-inverse-1": {
+          "$type": "color",
+          "$value": "#1F4456"
+        },
+        "bg-inverse-2": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-inverse-3": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      },
+      "indigo": {
+        "bg-1": {
+          "$type": "color",
+          "$value": "{color.grayscale.0}"
+        },
+        "bg-2": {
+          "$type": "color",
+          "$value": "#F4F4F1"
+        },
+        "bg-3": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-4": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-5": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-inverse-1": {
+          "$type": "color",
+          "$value": "#00263A"
+        },
+        "bg-inverse-2": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-inverse-3": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      },
+      "intercontinental": {
+        "bg-1": {
+          "$type": "color",
+          "$value": "{color.grayscale.0}"
+        },
+        "bg-2": {
+          "$type": "color",
+          "$value": "{color.grayscale.50}"
+        },
+        "bg-3": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-4": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-5": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-inverse-1": {
+          "$type": "color",
+          "$value": "#3D3935"
+        },
+        "bg-inverse-2": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-inverse-3": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      },
+      "kimpton": {
+        "bg-1": {
+          "$type": "color",
+          "$value": "{color.grayscale.0}"
+        },
+        "bg-2": {
+          "$type": "color",
+          "$value": "{color.grayscale.50}"
+        },
+        "bg-3": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-4": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-5": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-inverse-1": {
+          "$type": "color",
+          "$value": "{color.grayscale.1200}"
+        },
+        "bg-inverse-2": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-inverse-3": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      },
+      "kimpton-club": {
+        "bg-1": {
+          "$type": "color",
+          "$value": "{color.grayscale.0}"
+        },
+        "bg-2": {
+          "$type": "color",
+          "$value": "{color.grayscale.50}"
+        },
+        "bg-3": {
+          "$type": "color",
+          "$value": "#FFFBF6"
+        },
+        "bg-4": {
+          "$type": "color",
+          "$value": "#F0ECE7"
+        },
+        "bg-5": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-inverse-1": {
+          "$type": "color",
+          "$value": "{color.grayscale.1200}"
+        },
+        "bg-inverse-2": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-inverse-3": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      },
+      "regent": {
+        "bg-1": {
+          "$type": "color",
+          "$value": "{color.grayscale.0}"
+        },
+        "bg-2": {
+          "$type": "color",
+          "$value": "{color.grayscale.50}"
+        },
+        "bg-3": {
+          "$type": "color",
+          "$value": "#F3F7F5"
+        },
+        "bg-4": {
+          "$type": "color",
+          "$value": "#FCF6F0"
+        },
+        "bg-5": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-inverse-1": {
+          "$type": "color",
+          "$value": "#003B49"
+        },
+        "bg-inverse-2": {
+          "$type": "color",
+          "$value": "#211551"
+        },
+        "bg-inverse-3": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      },
+      "ruby": {
+        "bg-1": {
+          "$type": "color",
+          "$value": "{color.grayscale.0}"
+        },
+        "bg-2": {
+          "$type": "color",
+          "$value": "{color.grayscale.50}"
+        },
+        "bg-3": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-4": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-5": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-inverse-1": {
+          "$type": "color",
+          "$value": "#231F1F"
+        },
+        "bg-inverse-2": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-inverse-3": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      },
+      "six-senses": {
+        "bg-1": {
+          "$type": "color",
+          "$value": "{color.grayscale.0}"
+        },
+        "bg-2": {
+          "$type": "color",
+          "$value": "#F8F8F2"
+        },
+        "bg-3": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-4": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-5": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-inverse-1": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-inverse-2": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-inverse-3": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      },
+      "staybridge": {
+        "bg-1": {
+          "$type": "color",
+          "$value": "{color.grayscale.0}"
+        },
+        "bg-2": {
+          "$type": "color",
+          "$value": "#EEEEEE"
+        },
+        "bg-3": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-4": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-5": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-inverse-1": {
+          "$type": "color",
+          "$value": "#006980"
+        },
+        "bg-inverse-2": {
+          "$type": "color",
+          "$value": "#51534A"
+        },
+        "bg-inverse-3": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      },
+      "vignette": {
+        "bg-1": {
+          "$type": "color",
+          "$value": "{color.grayscale.0}"
+        },
+        "bg-2": {
+          "$type": "color",
+          "$value": "{color.grayscale.50}"
+        },
+        "bg-3": {
+          "$type": "color",
+          "$value": "#F9F5F3"
+        },
+        "bg-4": {
+          "$type": "color",
+          "$value": "#E9D0D5"
+        },
+        "bg-5": {
+          "$type": "color",
+          "$value": "#E5ECBE"
+        },
+        "bg-inverse-1": {
+          "$type": "color",
+          "$value": "#2E273B"
+        },
+        "bg-inverse-2": {
+          "$type": "color",
+          "$value": "#5F2836"
+        },
+        "bg-inverse-3": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      },
+      "voco": {
+        "bg-1": {
+          "$type": "color",
+          "$value": "{color.grayscale.0}"
+        },
+        "bg-2": {
+          "$type": "color",
+          "$value": "#F9F7F3"
+        },
+        "bg-3": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-4": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-5": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-inverse-1": {
+          "$type": "color",
+          "$value": "#F8B90D"
+        },
+        "bg-inverse-2": {
+          "$type": "color",
+          "$value": "#121212"
+        },
+        "bg-inverse-3": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      }
+    },
+    "black": {
+      "$type": "color",
+      "$value": "#000000"
+    },
+    "brand": {
+      "army": {
+        "primary-color": {
+          "$type": "color",
+          "$value": "#1F4456"
+        },
+        "primary-color-dark": {
+          "$type": "color",
+          "$value": "#1A3948"
+        },
+        "secondary-color": {
+          "$type": "color",
+          "$value": "#C7370F"
+        },
+        "secondary-color-dark": {
+          "$type": "color",
+          "$value": "#A52E0C"
+        }
+      },
+      "atwell-suites": {
+        "primary-color": {
+          "$type": "color",
+          "$value": "#A66659"
+        },
+        "primary-color-dark": {
+          "$type": "color",
+          "$value": "#B87A66"
+        },
+        "secondary-color": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "secondary-color-dark": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      },
+      "avid": {
+        "primary-color": {
+          "$type": "color",
+          "$value": "#D33019"
+        },
+        "primary-color-dark": {
+          "$type": "color",
+          "$value": "#B52916"
+        },
+        "secondary-color": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "secondary-color-dark": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      },
+      "candlewood-suites": {
+        "primary-color": {
+          "$type": "color",
+          "$value": "#9B2242"
+        },
+        "primary-color-dark": {
+          "$type": "color",
+          "$value": "#7F1C36"
+        },
+        "secondary-color": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "secondary-color-dark": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      },
+      "crowne-plaza": {
+        "primary-color": {
+          "$type": "color",
+          "$value": "#60004E"
+        },
+        "primary-color-dark": {
+          "$type": "color",
+          "$value": "#790162"
+        },
+        "secondary-color": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "secondary-color-dark": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      },
+      "even": {
+        "primary-color": {
+          "$type": "color",
+          "$value": "#164A45"
+        },
+        "primary-color-dark": {
+          "$type": "color",
+          "$value": "#37635F"
+        },
+        "secondary-color": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "secondary-color-dark": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      },
+      "garner": {
+        "primary-color": {
+          "$type": "color",
+          "$value": "#465D55"
+        },
+        "primary-color-dark": {
+          "$type": "color",
+          "$value": "#3B4E48"
+        },
+        "secondary-color": {
+          "$type": "color",
+          "$value": "#ABDBC6"
+        },
+        "secondary-color-dark": {
+          "$type": "color",
+          "$value": "#94D1B6"
+        }
+      },
+      "holiday-inn": {
+        "primary-color": {
+          "$type": "color",
+          "$value": "#216245"
+        },
+        "primary-color-dark": {
+          "$type": "color",
+          "$value": "#1C523A"
+        },
+        "secondary-color": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "secondary-color-dark": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      },
+      "holiday-inn-club-vacation": {
+        "primary-color": {
+          "$type": "color",
+          "$value": "#CC4C14"
+        },
+        "primary-color-dark": {
+          "$type": "color",
+          "$value": "#F76B3C"
+        },
+        "secondary-color": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "secondary-color-dark": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      },
+      "holiday-inn-express": {
+        "primary-color": {
+          "$type": "color",
+          "$value": "#002D72"
+        },
+        "primary-color-dark": {
+          "$type": "color",
+          "$value": "#1658B8"
+        },
+        "secondary-color": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "secondary-color-dark": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      },
+      "holiday-inn-niu": {
+        "primary-color": {
+          "$type": "color",
+          "$value": "#1C4B34"
+        },
+        "primary-color-dark": {
+          "$type": "color",
+          "$value": "#173E2B"
+        },
+        "secondary-color": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "secondary-color-dark": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      },
+      "holiday-inn-resorts": {
+        "primary-color": {
+          "$type": "color",
+          "$value": "#451C70"
+        },
+        "primary-color-dark": {
+          "$type": "color",
+          "$value": "#6D46B0"
+        },
+        "secondary-color": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "secondary-color-dark": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      },
+      "hualuxe": {
+        "primary-color": {
+          "$type": "color",
+          "$value": "#D31245"
+        },
+        "primary-color-dark": {
+          "$type": "color",
+          "$value": "#AF0F39"
+        },
+        "secondary-color": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "secondary-color-dark": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      },
+      "iberostar-joia": {
+        "primary-color": {
+          "$type": "color",
+          "$value": "#234789"
+        },
+        "primary-color-dark": {
+          "$type": "color",
+          "$value": "#002855"
+        },
+        "secondary-color": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "secondary-color-dark": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      },
+      "iberostar-master-brand": {
+        "primary-color": {
+          "$type": "color",
+          "$value": "#38A596"
+        },
+        "primary-color-dark": {
+          "$type": "color",
+          "$value": "#2E867A"
+        },
+        "secondary-color": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "secondary-color-dark": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      },
+      "iberostar-selection": {
+        "primary-color": {
+          "$type": "color",
+          "$value": "#38A596"
+        },
+        "primary-color-dark": {
+          "$type": "color",
+          "$value": "#2E867A"
+        },
+        "secondary-color": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "secondary-color-dark": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      },
+      "iberostar-waves": {
+        "primary-color": {
+          "$type": "color",
+          "$value": "#FA5D70"
+        },
+        "primary-color-dark": {
+          "$type": "color",
+          "$value": "#D54F5F"
+        },
+        "secondary-color": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "secondary-color-dark": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      },
+      "ihg": {
+        "primary-color": {
+          "$type": "color",
+          "$value": "#C7370F"
+        },
+        "primary-color-dark": {
+          "$type": "color",
+          "$value": "#A52E0C"
+        },
+        "secondary-color": {
+          "$type": "color",
+          "$value": "#1F4456"
+        },
+        "secondary-color-dark": {
+          "$type": "color",
+          "$value": "#1A3948"
+        }
+      },
+      "indigo": {
+        "primary-color": {
+          "$type": "color",
+          "$value": "#00263A"
+        },
+        "primary-color-dark": {
+          "$type": "color",
+          "$value": "#012030"
+        },
+        "secondary-color": {
+          "$type": "color",
+          "$value": "#2E5992"
+        },
+        "secondary-color-dark": {
+          "$type": "color",
+          "$value": "#254774"
+        }
+      },
+      "intercontinental": {
+        "primary-color": {
+          "$type": "color",
+          "$value": "#956652"
+        },
+        "primary-color-dark": {
+          "$type": "color",
+          "$value": "#A78070"
+        },
+        "secondary-color": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "secondary-color-dark": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      },
+      "kimpton": {
+        "primary-color": {
+          "$type": "color",
+          "$value": "#21836D"
+        },
+        "primary-color-dark": {
+          "$type": "color",
+          "$value": "#3F5B56"
+        },
+        "secondary-color": {
+          "$type": "color",
+          "$value": "{color.grayscale.1200}"
+        },
+        "secondary-color-dark": {
+          "$type": "color",
+          "$value": "{color.grayscale.1200}"
+        }
+      },
+      "kimpton-club": {
+        "primary-color": {
+          "$type": "color",
+          "$value": "{color.grayscale.1200}"
+        },
+        "primary-color-dark": {
+          "$type": "color",
+          "$value": "{color.grayscale.1200}"
+        },
+        "secondary-color": {
+          "$type": "color",
+          "$value": "#465D55"
+        },
+        "secondary-color-dark": {
+          "$type": "color",
+          "$value": "#394C45"
+        }
+      },
+      "regent": {
+        "primary-color": {
+          "$type": "color",
+          "$value": "#003B49"
+        },
+        "primary-color-dark": {
+          "$type": "color",
+          "$value": "#1A4F5B"
+        },
+        "secondary-color": {
+          "$type": "color",
+          "$value": "#D6E3DC"
+        },
+        "secondary-color-dark": {
+          "$type": "color",
+          "$value": "#E7EEEA"
+        }
+      },
+      "ruby": {
+        "primary-color": {
+          "$type": "color",
+          "$value": "#CC0032"
+        },
+        "primary-color-dark": {
+          "$type": "color",
+          "$value": "#AE002B"
+        },
+        "secondary-color": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "secondary-color-dark": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      },
+      "six-senses": {
+        "primary-color": {
+          "$type": "color",
+          "$value": "#6E3063"
+        },
+        "primary-color-dark": {
+          "$type": "color",
+          "$value": "#4D1443"
+        },
+        "secondary-color": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "secondary-color-dark": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      },
+      "staybridge": {
+        "primary-color": {
+          "$type": "color",
+          "$value": "#006980"
+        },
+        "primary-color-dark": {
+          "$type": "color",
+          "$value": "#00576B"
+        },
+        "secondary-color": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "secondary-color-dark": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      },
+      "vignette": {
+        "primary-color": {
+          "$type": "color",
+          "$value": "#2E273B"
+        },
+        "primary-color-dark": {
+          "$type": "color",
+          "$value": "#262131"
+        },
+        "secondary-color": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "secondary-color-dark": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        }
+      },
+      "voco": {
+        "primary-color": {
+          "$type": "color",
+          "$value": "#0D0D0D"
+        },
+        "primary-color-dark": {
+          "$type": "color",
+          "$value": "#161616"
+        },
+        "secondary-color": {
+          "$type": "color",
+          "$value": "#F8B90D"
+        },
+        "secondary-color-dark": {
+          "$type": "color",
+          "$value": "#D09B0B"
+        }
+      }
+    },
+    "empty": {
+      "$type": "color",
+      "$value": "#ffffff00"
+    },
+    "grayscale": {
+      "0": {
+        "$type": "color",
+        "$value": "#FFFFFF"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#EBEBEB"
+      },
+      "1000": {
+        "$type": "color",
+        "$value": "#121212",
+        "$description": "Black"
+      },
+      "1100": {
+        "$type": "color",
+        "$value": "#080808",
+        "$description": "Black"
+      },
+      "1200": {
+        "$type": "color",
+        "$value": "#000000",
+        "$description": "Black"
+      },
+      "200": {
+        "$type": "color",
+        "$value": "#D6D6D6"
+      },
+      "300": {
+        "$type": "color",
+        "$value": "#C2C2C2"
+      },
+      "400": {
+        "$type": "color",
+        "$value": "#ABABAB"
+      },
+      "50": {
+        "$type": "color",
+        "$value": "#F5F5F5"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#919191"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#7A7A7A"
+      },
+      "700": {
+        "$type": "color",
+        "$value": "#616161"
+      },
+      "800": {
+        "$type": "color",
+        "$value": "#4A4A4A"
+      },
+      "900": {
+        "$type": "color",
+        "$value": "#303030"
+      }
+    },
+    "white": {
+      "$type": "color",
+      "$value": "#FFFFFF"
+    }
+  },
+  "font": {
+    "family": {
+      "brand": {
+        "atwell-suites": {
+          "primary": {
+            "$type": "string",
+            "$value": "Anton"
+          },
+          "secondary": {
+            "$type": "string",
+            "$value": "Anton"
+          }
+        },
+        "avid": {
+          "primary": {
+            "$type": "string",
+            "$value": "F37 Ginger Bold"
+          },
+          "secondary": {
+            "$type": "string",
+            "$value": "F37 Ginger Bold"
+          }
+        },
+        "candlewood-suites": {
+          "primary": {
+            "$type": "string",
+            "$value": "Inter"
+          },
+          "secondary": {
+            "$type": "string",
+            "$value": "Inter"
+          }
+        },
+        "crowne-plaza": {
+          "primary": {
+            "$type": "string",
+            "$value": "Agenda"
+          },
+          "secondary": {
+            "$type": "string",
+            "$value": "Source Serif 4"
+          }
+        },
+        "even": {
+          "primary": {
+            "$type": "string",
+            "$value": "Even Sans"
+          },
+          "secondary": {
+            "$type": "string",
+            "$value": "Even Sans"
+          }
+        },
+        "garner": {
+          "primary": {
+            "$type": "string",
+            "$value": "Archivo Narrow"
+          },
+          "secondary": {
+            "$type": "string",
+            "$value": "Archivo Narrow"
+          }
+        },
+        "holiday-inn": {
+          "primary": {
+            "$type": "string",
+            "$value": "Montserrat"
+          },
+          "secondary": {
+            "$type": "string",
+            "$value": "Montserrat"
+          }
+        },
+        "holiday-inn-club-vacation": {
+          "primary": {
+            "$type": "string",
+            "$value": "Playfair Display"
+          },
+          "secondary": {
+            "$type": "string",
+            "$value": "Montserrat"
+          }
+        },
+        "holiday-inn-express": {
+          "primary": {
+            "$type": "string",
+            "$value": "Poppins"
+          },
+          "secondary": {
+            "$type": "string",
+            "$value": "P22 Mackinac"
+          }
+        },
+        "holiday-inn-niu": {
+          "primary": {
+            "$type": "string",
+            "$value": "Montserrat"
+          },
+          "secondary": {
+            "$type": "string",
+            "$value": "Inter"
+          }
+        },
+        "holiday-inn-resorts": {
+          "primary": {
+            "$type": "string",
+            "$value": "Noto Serif"
+          },
+          "secondary": {
+            "$type": "string",
+            "$value": "Noto Serif"
+          }
+        },
+        "hualuxe": {
+          "primary": {
+            "$type": "string",
+            "$value": "Trebuchet MS"
+          },
+          "secondary": {
+            "$type": "string",
+            "$value": "Trebuchet MS"
+          }
+        },
+        "iberostar-joia": {
+          "primary": {
+            "$type": "string",
+            "$value": "F37 Bergman"
+          },
+          "secondary": {
+            "$type": "string",
+            "$value": "Inter"
+          }
+        },
+        "iberostar-selection": {
+          "primary": {
+            "$type": "string",
+            "$value": "Playfair Display"
+          },
+          "secondary": {
+            "$type": "string",
+            "$value": "Inter"
+          }
+        },
+        "iberostar-waves": {
+          "primary": {
+            "$type": "string",
+            "$value": "PP Woodland"
+          },
+          "secondary": {
+            "$type": "string",
+            "$value": "Inter"
+          }
+        },
+        "ihg": {
+          "primary": {
+            "$type": "string",
+            "$value": "Graphik"
+          },
+          "secondary": {
+            "$type": "string",
+            "$value": "Graphik Wide"
+          }
+        },
+        "indigo": {
+          "primary": {
+            "$type": "string",
+            "$value": "Beausite Grand"
+          },
+          "secondary": {
+            "$type": "string",
+            "$value": "Beausite Grand"
+          }
+        },
+        "intercontinental": {
+          "primary": {
+            "$type": "string",
+            "$value": "ITC New Baskerville Std"
+          },
+          "secondary": {
+            "$type": "string",
+            "$value": "ITC New Baskerville Std"
+          }
+        },
+        "kimpton": {
+          "primary": {
+            "$type": "string",
+            "$value": "Area Extended"
+          },
+          "secondary": {
+            "$type": "string",
+            "$value": "Area Normal"
+          }
+        },
+        "regent": {
+          "primary": {
+            "$type": "string",
+            "$value": "Canela"
+          },
+          "secondary": {
+            "$type": "string",
+            "$value": "Engravers Gothic FS"
+          }
+        },
+        "ruby": {
+          "primary": {
+            "$type": "string",
+            "$value": "Backlash Small Caps"
+          },
+          "secondary": {
+            "$type": "string",
+            "$value": "Core Circus"
+          }
+        },
+        "staybridge": {
+          "primary": {
+            "$type": "string",
+            "$value": "Brandon Grotesque"
+          },
+          "secondary": {
+            "$type": "string",
+            "$value": "Inter"
+          }
+        },
+        "vignette": {
+          "primary": {
+            "$type": "string",
+            "$value": "Vignette Sans"
+          },
+          "secondary": {
+            "$type": "string",
+            "$value": "Vignette Sans"
+          }
+        },
+        "voco": {
+          "primary": {
+            "$type": "string",
+            "$value": "Butler"
+          },
+          "secondary": {
+            "$type": "string",
+            "$value": "Inter"
+          }
+        }
+      },
+      "global": {
+        "gl-inter": {
+          "$type": "string",
+          "$value": "Inter"
+        }
+      }
+    },
+    "letter-spacing": {
+      "-1": {
+        "$type": "number",
+        "$value": -1
+      },
+      "-_5": {
+        "$type": "number",
+        "$value": -0.5
+      },
+      "0": {
+        "$type": "number",
+        "$value": 0
+      },
+      "1": {
+        "$type": "number",
+        "$value": 1
+      },
+      "1_25": {
+        "$type": "number",
+        "$value": 1.25
+      },
+      "1_5": {
+        "$type": "number",
+        "$value": 1.5
+      },
+      "1_75": {
+        "$type": "number",
+        "$value": 1.75
+      },
+      "_25": {
+        "$type": "number",
+        "$value": 0.25
+      },
+      "_5": {
+        "$type": "number",
+        "$value": 0.5
+      },
+      "_75": {
+        "$type": "number",
+        "$value": 0.75
+      }
+    },
+    "line-height": {
+      "100": {
+        "$type": "number",
+        "$value": 100
+      },
+      "110": {
+        "$type": "number",
+        "$value": 110
+      },
+      "14": {
+        "$type": "number",
+        "$value": 14
+      },
+      "16": {
+        "$type": "number",
+        "$value": 16
+      },
+      "18": {
+        "$type": "number",
+        "$value": 18
+      },
+      "20": {
+        "$type": "number",
+        "$value": 20
+      },
+      "22": {
+        "$type": "number",
+        "$value": 22
+      },
+      "24": {
+        "$type": "number",
+        "$value": 24
+      },
+      "26": {
+        "$type": "number",
+        "$value": 26
+      },
+      "28": {
+        "$type": "number",
+        "$value": 28
+      },
+      "30": {
+        "$type": "number",
+        "$value": 30
+      },
+      "32": {
+        "$type": "number",
+        "$value": 32
+      },
+      "34": {
+        "$type": "number",
+        "$value": 34
+      },
+      "36": {
+        "$type": "number",
+        "$value": 36
+      },
+      "38": {
+        "$type": "number",
+        "$value": 38
+      },
+      "40": {
+        "$type": "number",
+        "$value": 40
+      },
+      "42": {
+        "$type": "number",
+        "$value": 42
+      },
+      "44": {
+        "$type": "number",
+        "$value": 44
+      },
+      "48": {
+        "$type": "number",
+        "$value": 48
+      },
+      "50": {
+        "$type": "number",
+        "$value": 50
+      },
+      "52": {
+        "$type": "number",
+        "$value": 52
+      },
+      "54": {
+        "$type": "number",
+        "$value": 54
+      },
+      "56": {
+        "$type": "number",
+        "$value": 56
+      },
+      "60": {
+        "$type": "number",
+        "$value": 60
+      },
+      "64": {
+        "$type": "number",
+        "$value": 66
+      },
+      "72": {
+        "$type": "number",
+        "$value": 72
+      },
+      "80": {
+        "$type": "number",
+        "$value": 80
+      },
+      "84": {
+        "$type": "number",
+        "$value": 84
+      }
+    },
+    "size": {
+      "102": {
+        "$type": "number",
+        "$value": 102
+      },
+      "12": {
+        "$type": "number",
+        "$value": 12
+      },
+      "13": {
+        "$type": "number",
+        "$value": 13
+      },
+      "14": {
+        "$type": "number",
+        "$value": 14
+      },
+      "15": {
+        "$type": "number",
+        "$value": 15
+      },
+      "16": {
+        "$type": "number",
+        "$value": 16
+      },
+      "17": {
+        "$type": "number",
+        "$value": 17
+      },
+      "18": {
+        "$type": "number",
+        "$value": 18
+      },
+      "20": {
+        "$type": "number",
+        "$value": 20
+      },
+      "22": {
+        "$type": "number",
+        "$value": 22
+      },
+      "24": {
+        "$type": "number",
+        "$value": 24
+      },
+      "26": {
+        "$type": "number",
+        "$value": 26
+      },
+      "28": {
+        "$type": "number",
+        "$value": 28
+      },
+      "30": {
+        "$type": "number",
+        "$value": 30
+      },
+      "32": {
+        "$type": "number",
+        "$value": 32
+      },
+      "36": {
+        "$type": "number",
+        "$value": 36
+      },
+      "38": {
+        "$type": "number",
+        "$value": 38
+      },
+      "40": {
+        "$type": "number",
+        "$value": 40
+      },
+      "44": {
+        "$type": "number",
+        "$value": 44
+      },
+      "48": {
+        "$type": "number",
+        "$value": 48
+      },
+      "52": {
+        "$type": "number",
+        "$value": 52
+      },
+      "56": {
+        "$type": "number",
+        "$value": 56
+      },
+      "60": {
+        "$type": "number",
+        "$value": 60
+      },
+      "68": {
+        "$type": "number",
+        "$value": 68
+      },
+      "80": {
+        "$type": "number",
+        "$value": 80
+      },
+      "84": {
+        "$type": "number",
+        "$value": 84
+      }
+    },
+    "weight": {
+      "Bold-700": {
+        "$type": "string",
+        "$value": "Bold"
+      },
+      "Book": {
+        "$type": "string",
+        "$value": "Book"
+      },
+      "Extended": {
+        "$type": "string",
+        "$value": "Extended"
+      },
+      "Light-300": {
+        "$type": "string",
+        "$value": "Light"
+      },
+      "Medium-500": {
+        "$type": "string",
+        "$value": "Medium"
+      },
+      "Regular-400": {
+        "$type": "string",
+        "$value": "Regular"
+      },
+      "Roman": {
+        "$type": "string",
+        "$value": "Roman"
+      },
+      "SemiBold-600": {
+        "$type": "string",
+        "$value": "SemiBold"
+      }
+    }
+  },
+  "size": {
+    "18": {
+      "$type": "number",
+      "$value": 18
+    },
+    "24": {
+      "$type": "number",
+      "$value": 24
+    },
+    "36": {
+      "$type": "number",
+      "$value": 36
+    },
+    "48": {
+      "$type": "number",
+      "$value": 48
+    },
+    "52": {
+      "$type": "number",
+      "$value": 52
+    },
+    "60": {
+      "$type": "number",
+      "$value": 60
+    },
+    "68": {
+      "$type": "number",
+      "$value": 68
+    },
+    "80": {
+      "$type": "number",
+      "$value": 80
+    },
+    "84": {
+      "$type": "number",
+      "$value": 84
+    }
+  },
+  "spacing": {
+    "0": {
+      "$type": "number",
+      "$value": 0
+    },
+    "12": {
+      "$type": "number",
+      "$value": 12
+    },
+    "120": {
+      "$type": "number",
+      "$value": 120
+    },
+    "16": {
+      "$type": "number",
+      "$value": 16
+    },
+    "2": {
+      "$type": "number",
+      "$value": 2
+    },
+    "20": {
+      "$type": "number",
+      "$value": 20
+    },
+    "28": {
+      "$type": "number",
+      "$value": 28
+    },
+    "32": {
+      "$type": "number",
+      "$value": 32
+    },
+    "34": {
+      "$type": "number",
+      "$value": 34
+    },
+    "36": {
+      "$type": "number",
+      "$value": 36
+    },
+    "38": {
+      "$type": "number",
+      "$value": 38
+    },
+    "4": {
+      "$type": "number",
+      "$value": 4
+    },
+    "40": {
+      "$type": "number",
+      "$value": 40
+    },
+    "42": {
+      "$type": "number",
+      "$value": 42
+    },
+    "44": {
+      "$type": "number",
+      "$value": 44
+    },
+    "46": {
+      "$type": "number",
+      "$value": 46
+    },
+    "48": {
+      "$type": "number",
+      "$value": 48
+    },
+    "52": {
+      "$type": "number",
+      "$value": 52
+    },
+    "56": {
+      "$type": "number",
+      "$value": 56
+    },
+    "60": {
+      "$type": "number",
+      "$value": 60
+    },
+    "64": {
+      "$type": "number",
+      "$value": 64
+    },
+    "72": {
+      "$type": "number",
+      "$value": 72
+    },
+    "8": {
+      "$type": "number",
+      "$value": 8
+    },
+    "80": {
+      "$type": "number",
+      "$value": 80
+    },
+    "88": {
+      "$type": "number",
+      "$value": 88
+    }
+  }
+}
