@@ -1,0 +1,96 @@
+{
+  "margin": {
+    "lx-desktop": {
+      "$type": "number",
+      "$value": "{spacing.120}"
+    },
+    "lx-mobile": {
+      "$type": "number",
+      "$value": "{spacing.28}"
+    },
+    "lx-tablet": {
+      "$type": "number",
+      "$value": "{spacing.80}"
+    }
+  },
+  "size": {
+    "lx-medium": {
+      "$type": "number",
+      "$value": 62
+    },
+    "lx-small": {
+      "$type": "number",
+      "$value": "{size.52}"
+    }
+  },
+  "spacing": {
+    "desktop": {
+      "lx-large": {
+        "$type": "number",
+        "$value": "{spacing.40}"
+      },
+      "lx-medium": {
+        "$type": "number",
+        "$value": "{spacing.28}"
+      },
+      "lx-none": {
+        "$type": "number",
+        "$value": "{spacing.0}"
+      },
+      "lx-small": {
+        "$type": "number",
+        "$value": "{spacing.16}"
+      },
+      "lx-xlarge": {
+        "$type": "number",
+        "$value": "{spacing.64}"
+      },
+      "lx-xsmall": {
+        "$type": "number",
+        "$value": "{spacing.8}"
+      },
+      "lx-xxlarge": {
+        "$type": "number",
+        "$value": "{spacing.80}"
+      },
+      "lx-xxsmall": {
+        "$type": "number",
+        "$value": "{spacing.4}"
+      }
+    },
+    "mobile": {
+      "lx-large": {
+        "$type": "number",
+        "$value": "{spacing.28}"
+      },
+      "lx-medium": {
+        "$type": "number",
+        "$value": "{spacing.20}"
+      },
+      "lx-none": {
+        "$type": "number",
+        "$value": "{spacing.0}"
+      },
+      "lx-small": {
+        "$type": "number",
+        "$value": "{spacing.12}"
+      },
+      "lx-xlarge": {
+        "$type": "number",
+        "$value": "{spacing.40}"
+      },
+      "lx-xsmall": {
+        "$type": "number",
+        "$value": "{spacing.8}"
+      },
+      "lx-xxlarge": {
+        "$type": "number",
+        "$value": "{spacing.52}"
+      },
+      "lx-xxsmall": {
+        "$type": "number",
+        "$value": "{spacing.4}"
+      }
+    }
+  }
+}
