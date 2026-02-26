@@ -1,0 +1,874 @@
+{
+  "border-radius": {
+    "full": {
+      "$type": "number",
+      "$value": 500
+    },
+    "large": {
+      "$type": "number",
+      "$value": 10
+    },
+    "medium": {
+      "$type": "number",
+      "$value": 8
+    },
+    "none": {
+      "$type": "number",
+      "$value": 0
+    },
+    "small": {
+      "$type": "number",
+      "$value": 4
+    }
+  },
+  "color": {
+    "background": {
+      "accent-primary": {
+        "$type": "color",
+        "$value": "#E8CEBD"
+      },
+      "accent-secondary": {
+        "$type": "color",
+        "$value": "#878D61"
+      },
+      "accent-tertiary": {
+        "$type": "color",
+        "$value": "#ffffff00"
+      },
+      "inverse-primary": {
+        "$type": "color",
+        "$value": "#000000"
+      },
+      "inverse-secondary": {
+        "$type": "color",
+        "$value": "#ffffff00"
+      },
+      "inverse-tertiary": {
+        "$type": "color",
+        "$value": "#ffffff00"
+      },
+      "primary": {
+        "$type": "color",
+        "$value": "#FFFFFF"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "#F4F2ED"
+      }
+    },
+    "border": {
+      "default": {
+        "$type": "color",
+        "$value": "#D6D6D6"
+      },
+      "light": {
+        "$type": "color",
+        "$value": "#EBEBEB"
+      }
+    },
+    "brand": {
+      "primary": {
+        "$type": "color",
+        "$value": "#A66659"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "#ffffff00"
+      }
+    },
+    "btn": {
+      "disabled": {
+        "bg-disabled": {
+          "$type": "color",
+          "$value": "#EBEBEB"
+        },
+        "border-disabled": {
+          "$type": "color",
+          "$value": "#EBEBEB"
+        }
+      },
+      "inverse-outline": {
+        "bg-hover-outline": {
+          "$type": "color",
+          "$value": "#A66659"
+        },
+        "bg-outline": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "border-hover-outline": {
+          "$type": "color",
+          "$value": "#A66659"
+        },
+        "border-outline": {
+          "$type": "color",
+          "$value": "#FFFFFF"
+        }
+      },
+      "outline": {
+        "bg-hover-outline": {
+          "$type": "color",
+          "$value": "#A66659"
+        },
+        "bg-outline": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "border-hover-outline": {
+          "$type": "color",
+          "$value": "#A66659"
+        },
+        "border-outline": {
+          "$type": "color",
+          "$value": "#A66659"
+        }
+      },
+      "primary": {
+        "bg-hover-primary": {
+          "$type": "color",
+          "$value": "#B87A66"
+        },
+        "bg-primary": {
+          "$type": "color",
+          "$value": "#A66659",
+          "$description": "buttonPrimaryFillEnabled"
+        },
+        "border-hover-primary": {
+          "$type": "color",
+          "$value": "#B87A66"
+        },
+        "border-primary": {
+          "$type": "color",
+          "$value": "#A66659",
+          "$description": "buttonPrimaryFillEnabled"
+        }
+      },
+      "secondary": {
+        "bg-hover-primary": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "bg-primary": {
+          "$type": "color",
+          "$value": "#ffffff00",
+          "$description": "buttonPrimaryFillEnabled"
+        },
+        "border-hover-primary": {
+          "$type": "color",
+          "$value": "#ffffff00"
+        },
+        "border-primary": {
+          "$type": "color",
+          "$value": "#ffffff00",
+          "$description": "buttonPrimaryFillEnabled"
+        }
+      },
+      "text": {
+        "disabled": {
+          "enabled": {
+            "$type": "color",
+            "$value": "#C2C2C2"
+          }
+        },
+        "inverse-outline": {
+          "enabled": {
+            "$type": "color",
+            "$value": "{color.text.inverse-primary}"
+          },
+          "hovered": {
+            "$type": "color",
+            "$value": "{color.text.inverse-primary}"
+          }
+        },
+        "outline": {
+          "enabled": {
+            "$type": "color",
+            "$value": "{color.text.primary}"
+          },
+          "hovered": {
+            "$type": "color",
+            "$value": "{color.text.inverse-primary}"
+          }
+        },
+        "primary": {
+          "enabled": {
+            "$type": "color",
+            "$value": "{color.text.inverse-primary}"
+          },
+          "hovered": {
+            "$type": "color",
+            "$value": "{color.text.inverse-primary}"
+          }
+        },
+        "secondary": {
+          "enabled": {
+            "$type": "color",
+            "$value": "{color.text.inverse-primary}"
+          },
+          "hovered": {
+            "$type": "color",
+            "$value": "{color.text.inverse-primary}"
+          }
+        }
+      }
+    },
+    "chiclets": {
+      "primary": {
+        "$type": "color",
+        "$value": "#A66659"
+      }
+    },
+    "focus": {
+      "default": {
+        "$type": "color",
+        "$value": "{color.brand.primary}"
+      },
+      "inverse": {
+        "$type": "color",
+        "$value": "#FFFFFF"
+      }
+    },
+    "footer": {
+      "bg": {
+        "$type": "color",
+        "$value": "#F4F2ED"
+      },
+      "bg-breadcrumb": {
+        "$type": "color",
+        "$value": "#F4F2ED"
+      },
+      "bg-legal-bar": {
+        "$type": "color",
+        "$value": "#A66659"
+      },
+      "brand price": {
+        "$type": "color",
+        "$value": "#A66659"
+      },
+      "divider": {
+        "$type": "color",
+        "$value": "{color.border.light}"
+      },
+      "text-legal": {
+        "$type": "color",
+        "$value": "{color.text.inverse-primary}"
+      },
+      "text-primary": {
+        "$type": "color",
+        "$value": "{color.text.primary}"
+      },
+      "text-secondary": {
+        "$type": "color",
+        "$value": "{color.text.secondary}"
+      }
+    },
+    "header": {
+      "bg": {
+        "$type": "color",
+        "$value": "#F4F2ED"
+      },
+      "text-primary": {
+        "$type": "color",
+        "$value": "{color.text.primary}"
+      }
+    },
+    "menu": {
+      "hovered": {
+        "$type": "color",
+        "$value": "#E9ECEE"
+      },
+      "selected": {
+        "$type": "color",
+        "$value": "{color.brand.primary}"
+      }
+    },
+    "text": {
+      "brand": {
+        "$type": "color",
+        "$value": "{color.brand.primary}"
+      },
+      "disabled": {
+        "$type": "color",
+        "$value": "#C2C2C2"
+      },
+      "inverse-primary": {
+        "$type": "color",
+        "$value": "#FFFFFF"
+      },
+      "inverse-secondary": {
+        "$type": "color",
+        "$value": "#D6D6D6"
+      },
+      "primary": {
+        "$type": "color",
+        "$value": "#121212"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "#4A4A4A"
+      },
+      "tertiary": {
+        "$type": "color",
+        "$value": "#616161"
+      }
+    }
+  },
+  "font": {
+    "family": {
+      "body-large": {
+        "$type": "string",
+        "$value": "Inter"
+      },
+      "body-medium": {
+        "$type": "string",
+        "$value": "Inter"
+      },
+      "body-small": {
+        "$type": "string",
+        "$value": "Inter"
+      },
+      "body-xsmall": {
+        "$type": "string",
+        "$value": "Inter"
+      },
+      "button-medium": {
+        "$type": "string",
+        "$value": "Inter"
+      },
+      "button-small": {
+        "$type": "string",
+        "$value": "Inter"
+      },
+      "footer-link-medium": {
+        "$type": "string",
+        "$value": "Inter"
+      },
+      "footer-title-medium": {
+        "$type": "string",
+        "$value": "Inter"
+      },
+      "heading-1": {
+        "$type": "string",
+        "$value": "Graphik"
+      },
+      "heading-2": {
+        "$type": "string",
+        "$value": "Graphik"
+      },
+      "heading-3": {
+        "$type": "string",
+        "$value": "Graphik"
+      },
+      "heading-4": {
+        "$type": "string",
+        "$value": "Graphik"
+      },
+      "heading-5": {
+        "$type": "string",
+        "$value": "Graphik"
+      },
+      "heading-6": {
+        "$type": "string",
+        "$value": "Graphik"
+      },
+      "label-medium": {
+        "$type": "string",
+        "$value": "Inter"
+      },
+      "link-medium": {
+        "$type": "string",
+        "$value": "Inter"
+      },
+      "nav-link-medium": {
+        "$type": "string",
+        "$value": "Inter"
+      },
+      "nav-link-small": {
+        "$type": "string",
+        "$value": "Inter"
+      },
+      "title-large": {
+        "$type": "string",
+        "$value": "Graphik Wide"
+      },
+      "title-medium": {
+        "$type": "string",
+        "$value": "Graphik Wide"
+      },
+      "title-small": {
+        "$type": "string",
+        "$value": "Graphik Wide"
+      }
+    },
+    "letter-spacing": {
+      "body-large": {
+        "$type": "number",
+        "$value": 0
+      },
+      "body-medium": {
+        "$type": "number",
+        "$value": 0
+      },
+      "body-small": {
+        "$type": "number",
+        "$value": 0
+      },
+      "body-xsmall": {
+        "$type": "number",
+        "$value": 0
+      },
+      "button-text-medium": {
+        "$type": "number",
+        "$value": 0
+      },
+      "button-text-small": {
+        "$type": "number",
+        "$value": 0
+      },
+      "footer-link-medium": {
+        "$type": "number",
+        "$value": 0
+      },
+      "footer-title-medium": {
+        "$type": "number",
+        "$value": 0
+      },
+      "heading-1": {
+        "$type": "number",
+        "$value": 0
+      },
+      "heading-2": {
+        "$type": "number",
+        "$value": 0
+      },
+      "heading-3": {
+        "$type": "number",
+        "$value": 0
+      },
+      "heading-4": {
+        "$type": "number",
+        "$value": 0
+      },
+      "heading-5": {
+        "$type": "number",
+        "$value": 0
+      },
+      "heading-6": {
+        "$type": "number",
+        "$value": 0
+      },
+      "label-medium": {
+        "$type": "number",
+        "$value": 0
+      },
+      "link-medium": {
+        "$type": "number",
+        "$value": 0
+      },
+      "nav-link-medium": {
+        "$type": "number",
+        "$value": 0
+      },
+      "nav-link-small": {
+        "$type": "number",
+        "$value": 0
+      },
+      "title-large": {
+        "$type": "number",
+        "$value": 0
+      },
+      "title-medium": {
+        "$type": "number",
+        "$value": 0
+      },
+      "title-small": {
+        "$type": "number",
+        "$value": 0
+      }
+    },
+    "line-height": {
+      "body-large": {
+        "$type": "number",
+        "$value": 28
+      },
+      "body-medium": {
+        "$type": "number",
+        "$value": 26
+      },
+      "body-small": {
+        "$type": "number",
+        "$value": 24
+      },
+      "body-xsmall": {
+        "$type": "number",
+        "$value": 22
+      },
+      "button-text-medium": {
+        "$type": "number",
+        "$value": 22
+      },
+      "button-text-small": {
+        "$type": "number",
+        "$value": 20
+      },
+      "footer-link-medium": {
+        "$type": "number",
+        "$value": 26
+      },
+      "footer-title-medium": {
+        "$type": "number",
+        "$value": 26
+      },
+      "heading-1": {
+        "$type": "number",
+        "$value": 80
+      },
+      "heading-2": {
+        "$type": "number",
+        "$value": 60
+      },
+      "heading-3": {
+        "$type": "number",
+        "$value": 52
+      },
+      "heading-4": {
+        "$type": "number",
+        "$value": 44
+      },
+      "heading-5": {
+        "$type": "number",
+        "$value": 32
+      },
+      "heading-6": {
+        "$type": "number",
+        "$value": 28
+      },
+      "label-medium": {
+        "$type": "number",
+        "$value": 22
+      },
+      "link-medium": {
+        "$type": "number",
+        "$value": 28
+      },
+      "nav-link-medium": {
+        "$type": "number",
+        "$value": 28
+      },
+      "nav-link-small": {
+        "$type": "number",
+        "$value": 20
+      },
+      "title-large": {
+        "$type": "number",
+        "$value": 36
+      },
+      "title-medium": {
+        "$type": "number",
+        "$value": 32
+      },
+      "title-small": {
+        "$type": "number",
+        "$value": 28
+      }
+    },
+    "size": {
+      "body-large": {
+        "$type": "number",
+        "$value": 18
+      },
+      "body-medium": {
+        "$type": "number",
+        "$value": 16
+      },
+      "body-small": {
+        "$type": "number",
+        "$value": 14
+      },
+      "body-xsmall": {
+        "$type": "number",
+        "$value": 13
+      },
+      "button-text-medium": {
+        "$type": "number",
+        "$value": 16
+      },
+      "button-text-small": {
+        "$type": "number",
+        "$value": 14
+      },
+      "footer-link-medium": {
+        "$type": "number",
+        "$value": 14
+      },
+      "footer-title-medium": {
+        "$type": "number",
+        "$value": 18
+      },
+      "heading-1": {
+        "$type": "number",
+        "$value": 60
+      },
+      "heading-2": {
+        "$type": "number",
+        "$value": 44
+      },
+      "heading-3": {
+        "$type": "number",
+        "$value": 36
+      },
+      "heading-4": {
+        "$type": "number",
+        "$value": 28
+      },
+      "heading-5": {
+        "$type": "number",
+        "$value": 24
+      },
+      "heading-6": {
+        "$type": "number",
+        "$value": 22
+      },
+      "label-medium": {
+        "$type": "number",
+        "$value": 13
+      },
+      "link-medium": {
+        "$type": "number",
+        "$value": 16
+      },
+      "nav-link-medium": {
+        "$type": "number",
+        "$value": 16
+      },
+      "nav-link-small": {
+        "$type": "number",
+        "$value": 14
+      },
+      "title-large": {
+        "$type": "number",
+        "$value": 18
+      },
+      "title-medium": {
+        "$type": "number",
+        "$value": 16
+      },
+      "title-small": {
+        "$type": "number",
+        "$value": 14
+      }
+    },
+    "text-transform": {
+      "all-caps": {
+        "$type": "boolean",
+        "$value": false
+      }
+    },
+    "weight": {
+      "body-large": {
+        "$type": "string",
+        "$value": "Regular"
+      },
+      "body-large-bold": {
+        "$type": "string",
+        "$value": "Medium"
+      },
+      "body-medium": {
+        "$type": "string",
+        "$value": "Regular"
+      },
+      "body-medium-bold": {
+        "$type": "string",
+        "$value": "Medium"
+      },
+      "body-small": {
+        "$type": "string",
+        "$value": "Regular"
+      },
+      "body-small-bold": {
+        "$type": "string",
+        "$value": "Medium"
+      },
+      "body-xsmall": {
+        "$type": "string",
+        "$value": "Regular"
+      },
+      "body-xsmall-bold": {
+        "$type": "string",
+        "$value": "Medium"
+      },
+      "button-text-medium": {
+        "$type": "string",
+        "$value": "Medium"
+      },
+      "button-text-small": {
+        "$type": "string",
+        "$value": "Medium"
+      },
+      "footer-link-medium": {
+        "$type": "string",
+        "$value": "Regular"
+      },
+      "footer-title-medium": {
+        "$type": "string",
+        "$value": "Regular"
+      },
+      "heading-1": {
+        "$type": "string",
+        "$value": "Regular"
+      },
+      "heading-2": {
+        "$type": "string",
+        "$value": "Regular"
+      },
+      "heading-3": {
+        "$type": "string",
+        "$value": "Regular"
+      },
+      "heading-4": {
+        "$type": "string",
+        "$value": "Regular"
+      },
+      "heading-5": {
+        "$type": "string",
+        "$value": "Regular"
+      },
+      "heading-6": {
+        "$type": "string",
+        "$value": "Regular"
+      },
+      "label-medium": {
+        "$type": "string",
+        "$value": "Regular"
+      },
+      "label-medium 2": {
+        "$type": "string",
+        "$value": "Regular"
+      },
+      "link-medium": {
+        "$type": "string",
+        "$value": "Medium"
+      },
+      "nav-link-medium": {
+        "$type": "string",
+        "$value": "Medium"
+      },
+      "nav-link-small": {
+        "$type": "string",
+        "$value": "Regular"
+      },
+      "title-large": {
+        "$type": "string",
+        "$value": "Regular"
+      },
+      "title-medium": {
+        "$type": "string",
+        "$value": "Regular"
+      },
+      "title-small": {
+        "$type": "string",
+        "$value": "Regular"
+      }
+    }
+  },
+  "margin": {
+    "default": {
+      "$type": "number",
+      "$value": 80
+    }
+  },
+  "size": {
+    "accordion": {
+      "medium": {
+        "$type": "number",
+        "$value": 80
+      },
+      "small": {
+        "$type": "number",
+        "$value": 68
+      }
+    },
+    "form-field": {
+      "medium": {
+        "$type": "number",
+        "$value": 48
+      },
+      "small": {
+        "$type": "number",
+        "$value": 36
+      }
+    },
+    "general": {
+      "medium": {
+        "$type": "number",
+        "$value": 60
+      },
+      "small": {
+        "$type": "number",
+        "$value": 52
+      },
+      "xsmall": {
+        "$type": "number",
+        "$value": 48
+      },
+      "xxsmall": {
+        "$type": "number",
+        "$value": 36
+      }
+    },
+    "icon": {
+      "medium": {
+        "$type": "number",
+        "$value": 24
+      },
+      "small": {
+        "$type": "number",
+        "$value": 18
+      }
+    },
+    "menu": {
+      "medium": {
+        "$type": "number",
+        "$value": 48
+      },
+      "small": {
+        "$type": "number",
+        "$value": 36
+      }
+    }
+  },
+  "spacing": {
+    "large": {
+      "$type": "number",
+      "$value": 40
+    },
+    "medium": {
+      "$type": "number",
+      "$value": 28
+    },
+    "none": {
+      "$type": "number",
+      "$value": 0
+    },
+    "small": {
+      "$type": "number",
+      "$value": 16
+    },
+    "xlarge": {
+      "$type": "number",
+      "$value": 64
+    },
+    "xsmall": {
+      "$type": "number",
+      "$value": 8
+    },
+    "xxlarge": {
+      "$type": "number",
+      "$value": 80
+    },
+    "xxsmall": {
+      "$type": "number",
+      "$value": 4
+    }
+  }
+}
