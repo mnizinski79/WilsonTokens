@@ -1,0 +1,874 @@
+{
+  "border-radius": {
+    "full": {
+      "$type": "number",
+      "$value": "{border-radius.200}"
+    },
+    "large": {
+      "$type": "number",
+      "$value": "{border-radius.12}"
+    },
+    "medium": {
+      "$type": "number",
+      "$value": "{border-radius.8}"
+    },
+    "none": {
+      "$type": "number",
+      "$value": "{border-radius.0}"
+    },
+    "small": {
+      "$type": "number",
+      "$value": "{border-radius.4}"
+    }
+  },
+  "color": {
+    "background": {
+      "accent-primary": {
+        "$type": "color",
+        "$value": "{color.background.ihg.bg-3}"
+      },
+      "accent-secondary": {
+        "$type": "color",
+        "$value": "{color.background.ihg.bg-4}"
+      },
+      "accent-tertiary": {
+        "$type": "color",
+        "$value": "{color.background.ihg.bg-5}"
+      },
+      "inverse-primary": {
+        "$type": "color",
+        "$value": "{color.background.ihg.bg-inverse-1}"
+      },
+      "inverse-secondary": {
+        "$type": "color",
+        "$value": "{color.background.ihg.bg-inverse-2}"
+      },
+      "inverse-tertiary": {
+        "$type": "color",
+        "$value": "{color.background.ihg.bg-inverse-3}"
+      },
+      "primary": {
+        "$type": "color",
+        "$value": "{color.background.ihg.bg-1}"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "{color.background.ihg.bg-2}"
+      }
+    },
+    "border": {
+      "default": {
+        "$type": "color",
+        "$value": "{color.grayscale.200}"
+      },
+      "light": {
+        "$type": "color",
+        "$value": "{color.grayscale.100}"
+      }
+    },
+    "brand": {
+      "primary": {
+        "$type": "color",
+        "$value": "{color.brand.ihg.primary-color}"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "{color.brand.ihg.secondary-color}"
+      }
+    },
+    "btn": {
+      "disabled": {
+        "bg-disabled": {
+          "$type": "color",
+          "$value": "{color.grayscale.100}"
+        },
+        "border-disabled": {
+          "$type": "color",
+          "$value": "{color.grayscale.100}"
+        }
+      },
+      "inverse-outline": {
+        "bg-hover-outline": {
+          "$type": "color",
+          "$value": "{color.brand.ihg.primary-color}"
+        },
+        "bg-outline": {
+          "$type": "color",
+          "$value": "{color.empty}"
+        },
+        "border-hover-outline": {
+          "$type": "color",
+          "$value": "{color.brand.ihg.primary-color}"
+        },
+        "border-outline": {
+          "$type": "color",
+          "$value": "{color.grayscale.0}"
+        }
+      },
+      "outline": {
+        "bg-hover-outline": {
+          "$type": "color",
+          "$value": "{color.brand.ihg.primary-color}"
+        },
+        "bg-outline": {
+          "$type": "color",
+          "$value": "{color.empty}"
+        },
+        "border-hover-outline": {
+          "$type": "color",
+          "$value": "{color.brand.ihg.primary-color}"
+        },
+        "border-outline": {
+          "$type": "color",
+          "$value": "{color.brand.ihg.primary-color}"
+        }
+      },
+      "primary": {
+        "bg-hover-primary": {
+          "$type": "color",
+          "$value": "{color.brand.ihg.primary-color-dark}"
+        },
+        "bg-primary": {
+          "$type": "color",
+          "$value": "{color.brand.ihg.primary-color}",
+          "$description": "buttonPrimaryFillEnabled"
+        },
+        "border-hover-primary": {
+          "$type": "color",
+          "$value": "{color.brand.ihg.primary-color-dark}"
+        },
+        "border-primary": {
+          "$type": "color",
+          "$value": "{color.brand.ihg.primary-color}",
+          "$description": "buttonPrimaryFillEnabled"
+        }
+      },
+      "secondary": {
+        "bg-hover-primary": {
+          "$type": "color",
+          "$value": "{color.brand.ihg.secondary-color-dark}"
+        },
+        "bg-primary": {
+          "$type": "color",
+          "$value": "{color.brand.ihg.secondary-color}",
+          "$description": "buttonPrimaryFillEnabled"
+        },
+        "border-hover-primary": {
+          "$type": "color",
+          "$value": "{color.brand.ihg.secondary-color-dark}"
+        },
+        "border-primary": {
+          "$type": "color",
+          "$value": "{color.brand.ihg.secondary-color}",
+          "$description": "buttonPrimaryFillEnabled"
+        }
+      },
+      "text": {
+        "disabled": {
+          "enabled": {
+            "$type": "color",
+            "$value": "{color.grayscale.300}"
+          }
+        },
+        "inverse-outline": {
+          "enabled": {
+            "$type": "color",
+            "$value": "{color.text.inverse-primary}"
+          },
+          "hovered": {
+            "$type": "color",
+            "$value": "{color.text.inverse-primary}"
+          }
+        },
+        "outline": {
+          "enabled": {
+            "$type": "color",
+            "$value": "{color.text.primary}"
+          },
+          "hovered": {
+            "$type": "color",
+            "$value": "{color.text.inverse-primary}"
+          }
+        },
+        "primary": {
+          "enabled": {
+            "$type": "color",
+            "$value": "{color.text.inverse-primary}"
+          },
+          "hovered": {
+            "$type": "color",
+            "$value": "{color.text.inverse-primary}"
+          }
+        },
+        "secondary": {
+          "enabled": {
+            "$type": "color",
+            "$value": "{color.text.inverse-primary}"
+          },
+          "hovered": {
+            "$type": "color",
+            "$value": "{color.text.inverse-primary}"
+          }
+        }
+      }
+    },
+    "chiclets": {
+      "primary": {
+        "$type": "color",
+        "$value": "{color.brand.primary}"
+      }
+    },
+    "focus": {
+      "default": {
+        "$type": "color",
+        "$value": "{color.brand.primary}"
+      },
+      "inverse": {
+        "$type": "color",
+        "$value": "{color.white}"
+      }
+    },
+    "footer": {
+      "bg": {
+        "$type": "color",
+        "$value": "{color.background.ihg.bg-inverse-1}"
+      },
+      "bg-breadcrumb": {
+        "$type": "color",
+        "$value": "#1A3948"
+      },
+      "bg-legal-bar": {
+        "$type": "color",
+        "$value": "{color.background.ihg.bg-3}"
+      },
+      "brand price": {
+        "$type": "color",
+        "$value": "{color.brand.ihg.secondary-color}"
+      },
+      "divider": {
+        "$type": "color",
+        "$value": "#1A3948"
+      },
+      "text-legal": {
+        "$type": "color",
+        "$value": "{color.text.primary}"
+      },
+      "text-primary": {
+        "$type": "color",
+        "$value": "{color.text.inverse-primary}"
+      },
+      "text-secondary": {
+        "$type": "color",
+        "$value": "{color.text.inverse-secondary}"
+      }
+    },
+    "header": {
+      "bg": {
+        "$type": "color",
+        "$value": "{color.background.ihg.bg-1}"
+      },
+      "text-primary": {
+        "$type": "color",
+        "$value": "{color.text.primary}"
+      }
+    },
+    "menu": {
+      "hovered": {
+        "$type": "color",
+        "$value": "#E9ECEE"
+      },
+      "selected": {
+        "$type": "color",
+        "$value": "{color.brand.primary}"
+      }
+    },
+    "text": {
+      "brand": {
+        "$type": "color",
+        "$value": "{color.brand.primary}"
+      },
+      "disabled": {
+        "$type": "color",
+        "$value": "{color.grayscale.300}"
+      },
+      "inverse-primary": {
+        "$type": "color",
+        "$value": "{color.grayscale.0}"
+      },
+      "inverse-secondary": {
+        "$type": "color",
+        "$value": "{color.grayscale.200}"
+      },
+      "primary": {
+        "$type": "color",
+        "$value": "{color.grayscale.1000}"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "{color.grayscale.800}"
+      },
+      "tertiary": {
+        "$type": "color",
+        "$value": "{color.grayscale.700}"
+      }
+    }
+  },
+  "font": {
+    "family": {
+      "body-large": {
+        "$type": "string",
+        "$value": "{font.family.global.gl-inter}"
+      },
+      "body-medium": {
+        "$type": "string",
+        "$value": "{font.family.global.gl-inter}"
+      },
+      "body-small": {
+        "$type": "string",
+        "$value": "{font.family.global.gl-inter}"
+      },
+      "body-xsmall": {
+        "$type": "string",
+        "$value": "{font.family.global.gl-inter}"
+      },
+      "button-medium": {
+        "$type": "string",
+        "$value": "{font.family.global.gl-inter}"
+      },
+      "button-small": {
+        "$type": "string",
+        "$value": "{font.family.global.gl-inter}"
+      },
+      "footer-link-medium": {
+        "$type": "string",
+        "$value": "{font.family.global.gl-inter}"
+      },
+      "footer-title-medium": {
+        "$type": "string",
+        "$value": "{font.family.global.gl-inter}"
+      },
+      "heading-1": {
+        "$type": "string",
+        "$value": "{font.family.brand.ihg.primary}"
+      },
+      "heading-2": {
+        "$type": "string",
+        "$value": "{font.family.brand.ihg.primary}"
+      },
+      "heading-3": {
+        "$type": "string",
+        "$value": "{font.family.brand.ihg.primary}"
+      },
+      "heading-4": {
+        "$type": "string",
+        "$value": "{font.family.brand.ihg.primary}"
+      },
+      "heading-5": {
+        "$type": "string",
+        "$value": "{font.family.brand.ihg.primary}"
+      },
+      "heading-6": {
+        "$type": "string",
+        "$value": "{font.family.brand.ihg.primary}"
+      },
+      "label-medium": {
+        "$type": "string",
+        "$value": "{font.family.global.gl-inter}"
+      },
+      "link-medium": {
+        "$type": "string",
+        "$value": "{font.family.global.gl-inter}"
+      },
+      "nav-link-medium": {
+        "$type": "string",
+        "$value": "{font.family.global.gl-inter}"
+      },
+      "nav-link-small": {
+        "$type": "string",
+        "$value": "{font.family.global.gl-inter}"
+      },
+      "title-large": {
+        "$type": "string",
+        "$value": "{font.family.brand.ihg.secondary}"
+      },
+      "title-medium": {
+        "$type": "string",
+        "$value": "{font.family.brand.ihg.secondary}"
+      },
+      "title-small": {
+        "$type": "string",
+        "$value": "{font.family.brand.ihg.secondary}"
+      }
+    },
+    "letter-spacing": {
+      "body-large": {
+        "$type": "number",
+        "$value": "{font.letter-spacing.0}"
+      },
+      "body-medium": {
+        "$type": "number",
+        "$value": "{font.letter-spacing.0}"
+      },
+      "body-small": {
+        "$type": "number",
+        "$value": "{font.letter-spacing.0}"
+      },
+      "body-xsmall": {
+        "$type": "number",
+        "$value": "{font.letter-spacing.0}"
+      },
+      "button-text-medium": {
+        "$type": "number",
+        "$value": "{font.letter-spacing.0}"
+      },
+      "button-text-small": {
+        "$type": "number",
+        "$value": "{font.letter-spacing.0}"
+      },
+      "footer-link-medium": {
+        "$type": "number",
+        "$value": "{font.letter-spacing.0}"
+      },
+      "footer-title-medium": {
+        "$type": "number",
+        "$value": "{font.letter-spacing.0}"
+      },
+      "heading-1": {
+        "$type": "number",
+        "$value": "{font.letter-spacing.0}"
+      },
+      "heading-2": {
+        "$type": "number",
+        "$value": "{font.letter-spacing.0}"
+      },
+      "heading-3": {
+        "$type": "number",
+        "$value": "{font.letter-spacing.0}"
+      },
+      "heading-4": {
+        "$type": "number",
+        "$value": "{font.letter-spacing.0}"
+      },
+      "heading-5": {
+        "$type": "number",
+        "$value": "{font.letter-spacing.0}"
+      },
+      "heading-6": {
+        "$type": "number",
+        "$value": "{font.letter-spacing.0}"
+      },
+      "label-medium": {
+        "$type": "number",
+        "$value": "{font.letter-spacing.0}"
+      },
+      "link-medium": {
+        "$type": "number",
+        "$value": "{font.letter-spacing.0}"
+      },
+      "nav-link-medium": {
+        "$type": "number",
+        "$value": "{font.letter-spacing.0}"
+      },
+      "nav-link-small": {
+        "$type": "number",
+        "$value": "{font.letter-spacing.0}"
+      },
+      "title-large": {
+        "$type": "number",
+        "$value": "{font.letter-spacing.0}"
+      },
+      "title-medium": {
+        "$type": "number",
+        "$value": "{font.letter-spacing.0}"
+      },
+      "title-small": {
+        "$type": "number",
+        "$value": "{font.letter-spacing.0}"
+      }
+    },
+    "line-height": {
+      "body-large": {
+        "$type": "number",
+        "$value": "{font.line-height.26}"
+      },
+      "body-medium": {
+        "$type": "number",
+        "$value": "{font.line-height.24}"
+      },
+      "body-small": {
+        "$type": "number",
+        "$value": "{font.line-height.22}"
+      },
+      "body-xsmall": {
+        "$type": "number",
+        "$value": "{font.line-height.20}"
+      },
+      "button-text-medium": {
+        "$type": "number",
+        "$value": "{font.line-height.22}"
+      },
+      "button-text-small": {
+        "$type": "number",
+        "$value": "{font.line-height.20}"
+      },
+      "footer-link-medium": {
+        "$type": "number",
+        "$value": "{font.line-height.24}"
+      },
+      "footer-title-medium": {
+        "$type": "number",
+        "$value": "{font.line-height.24}"
+      },
+      "heading-1": {
+        "$type": "number",
+        "$value": "{font.line-height.80}"
+      },
+      "heading-2": {
+        "$type": "number",
+        "$value": "{font.line-height.60}"
+      },
+      "heading-3": {
+        "$type": "number",
+        "$value": "{font.line-height.52}"
+      },
+      "heading-4": {
+        "$type": "number",
+        "$value": "{font.line-height.44}"
+      },
+      "heading-5": {
+        "$type": "number",
+        "$value": "{font.line-height.32}"
+      },
+      "heading-6": {
+        "$type": "number",
+        "$value": "{font.line-height.28}"
+      },
+      "label-medium": {
+        "$type": "number",
+        "$value": "{font.line-height.20}"
+      },
+      "link-medium": {
+        "$type": "number",
+        "$value": "{font.line-height.28}"
+      },
+      "nav-link-medium": {
+        "$type": "number",
+        "$value": "{font.line-height.28}"
+      },
+      "nav-link-small": {
+        "$type": "number",
+        "$value": "{font.line-height.20}"
+      },
+      "title-large": {
+        "$type": "number",
+        "$value": "{font.line-height.34}"
+      },
+      "title-medium": {
+        "$type": "number",
+        "$value": "{font.line-height.30}"
+      },
+      "title-small": {
+        "$type": "number",
+        "$value": "{font.line-height.26}"
+      }
+    },
+    "size": {
+      "body-large": {
+        "$type": "number",
+        "$value": "{font.size.16}"
+      },
+      "body-medium": {
+        "$type": "number",
+        "$value": "{font.size.14}"
+      },
+      "body-small": {
+        "$type": "number",
+        "$value": "{font.size.13}"
+      },
+      "body-xsmall": {
+        "$type": "number",
+        "$value": "{font.size.12}"
+      },
+      "button-text-medium": {
+        "$type": "number",
+        "$value": "{font.size.16}"
+      },
+      "button-text-small": {
+        "$type": "number",
+        "$value": "{font.size.14}"
+      },
+      "footer-link-medium": {
+        "$type": "number",
+        "$value": "{font.size.14}"
+      },
+      "footer-title-medium": {
+        "$type": "number",
+        "$value": "{font.size.18}"
+      },
+      "heading-1": {
+        "$type": "number",
+        "$value": "{font.size.60}"
+      },
+      "heading-2": {
+        "$type": "number",
+        "$value": "{font.size.44}"
+      },
+      "heading-3": {
+        "$type": "number",
+        "$value": "{font.size.36}"
+      },
+      "heading-4": {
+        "$type": "number",
+        "$value": "{font.size.28}"
+      },
+      "heading-5": {
+        "$type": "number",
+        "$value": "{font.size.24}"
+      },
+      "heading-6": {
+        "$type": "number",
+        "$value": "{font.size.22}"
+      },
+      "label-medium": {
+        "$type": "number",
+        "$value": "{font.size.13}"
+      },
+      "link-medium": {
+        "$type": "number",
+        "$value": "{font.size.16}"
+      },
+      "nav-link-medium": {
+        "$type": "number",
+        "$value": "{font.size.16}"
+      },
+      "nav-link-small": {
+        "$type": "number",
+        "$value": "{font.size.14}"
+      },
+      "title-large": {
+        "$type": "number",
+        "$value": "{font.size.16}"
+      },
+      "title-medium": {
+        "$type": "number",
+        "$value": "{font.size.14}"
+      },
+      "title-small": {
+        "$type": "number",
+        "$value": "{font.size.13}"
+      }
+    },
+    "text-transform": {
+      "all-caps": {
+        "$type": "boolean",
+        "$value": false
+      }
+    },
+    "weight": {
+      "body-large": {
+        "$type": "string",
+        "$value": "{font.weight.Regular-400}"
+      },
+      "body-large-bold": {
+        "$type": "string",
+        "$value": "{font.weight.Medium-500}"
+      },
+      "body-medium": {
+        "$type": "string",
+        "$value": "{font.weight.Regular-400}"
+      },
+      "body-medium-bold": {
+        "$type": "string",
+        "$value": "{font.weight.Medium-500}"
+      },
+      "body-small": {
+        "$type": "string",
+        "$value": "{font.weight.Regular-400}"
+      },
+      "body-small-bold": {
+        "$type": "string",
+        "$value": "{font.weight.Medium-500}"
+      },
+      "body-xsmall": {
+        "$type": "string",
+        "$value": "{font.weight.Regular-400}"
+      },
+      "body-xsmall-bold": {
+        "$type": "string",
+        "$value": "{font.weight.Medium-500}"
+      },
+      "button-text-medium": {
+        "$type": "string",
+        "$value": "{font.weight.Medium-500}"
+      },
+      "button-text-small": {
+        "$type": "string",
+        "$value": "{font.weight.Medium-500}"
+      },
+      "footer-link-medium": {
+        "$type": "string",
+        "$value": "{font.weight.Regular-400}"
+      },
+      "footer-title-medium": {
+        "$type": "string",
+        "$value": "{font.weight.Regular-400}"
+      },
+      "heading-1": {
+        "$type": "string",
+        "$value": "{font.weight.Regular-400}"
+      },
+      "heading-2": {
+        "$type": "string",
+        "$value": "{font.weight.Regular-400}"
+      },
+      "heading-3": {
+        "$type": "string",
+        "$value": "{font.weight.Regular-400}"
+      },
+      "heading-4": {
+        "$type": "string",
+        "$value": "{font.weight.Regular-400}"
+      },
+      "heading-5": {
+        "$type": "string",
+        "$value": "{font.weight.Regular-400}"
+      },
+      "heading-6": {
+        "$type": "string",
+        "$value": "{font.weight.Regular-400}"
+      },
+      "label-medium": {
+        "$type": "string",
+        "$value": "{font.weight.Regular-400}"
+      },
+      "label-medium 2": {
+        "$type": "string",
+        "$value": "{font.weight.Regular-400}"
+      },
+      "link-medium": {
+        "$type": "string",
+        "$value": "{font.weight.Medium-500}"
+      },
+      "nav-link-medium": {
+        "$type": "string",
+        "$value": "{font.weight.Medium-500}"
+      },
+      "nav-link-small": {
+        "$type": "string",
+        "$value": "{font.weight.Regular-400}"
+      },
+      "title-large": {
+        "$type": "string",
+        "$value": "{font.weight.Regular-400}"
+      },
+      "title-medium": {
+        "$type": "string",
+        "$value": "{font.weight.Regular-400}"
+      },
+      "title-small": {
+        "$type": "string",
+        "$value": "{font.weight.Regular-400}"
+      }
+    }
+  },
+  "margin": {
+    "default": {
+      "$type": "number",
+      "$value": "{margin.lx-mobile}"
+    }
+  },
+  "size": {
+    "accordion": {
+      "medium": {
+        "$type": "number",
+        "$value": "{size.80}"
+      },
+      "small": {
+        "$type": "number",
+        "$value": "{size.68}"
+      }
+    },
+    "form-field": {
+      "medium": {
+        "$type": "number",
+        "$value": "{size.48}"
+      },
+      "small": {
+        "$type": "number",
+        "$value": "{size.36}"
+      }
+    },
+    "general": {
+      "medium": {
+        "$type": "number",
+        "$value": "{size.60}"
+      },
+      "small": {
+        "$type": "number",
+        "$value": "{size.52}"
+      },
+      "xsmall": {
+        "$type": "number",
+        "$value": "{size.48}"
+      },
+      "xxsmall": {
+        "$type": "number",
+        "$value": "{size.36}"
+      }
+    },
+    "icon": {
+      "medium": {
+        "$type": "number",
+        "$value": "{size.24}"
+      },
+      "small": {
+        "$type": "number",
+        "$value": "{size.18}"
+      }
+    },
+    "menu": {
+      "medium": {
+        "$type": "number",
+        "$value": "{size.48}"
+      },
+      "small": {
+        "$type": "number",
+        "$value": "{size.36}"
+      }
+    }
+  },
+  "spacing": {
+    "large": {
+      "$type": "number",
+      "$value": "{spacing.mobile.lx-large}"
+    },
+    "medium": {
+      "$type": "number",
+      "$value": "{spacing.mobile.lx-medium}"
+    },
+    "none": {
+      "$type": "number",
+      "$value": "{spacing.mobile.lx-none}"
+    },
+    "small": {
+      "$type": "number",
+      "$value": "{spacing.mobile.lx-small}"
+    },
+    "xlarge": {
+      "$type": "number",
+      "$value": "{spacing.mobile.lx-xlarge}"
+    },
+    "xsmall": {
+      "$type": "number",
+      "$value": "{spacing.mobile.lx-xsmall}"
+    },
+    "xxlarge": {
+      "$type": "number",
+      "$value": "{spacing.mobile.lx-xxlarge}"
+    },
+    "xxsmall": {
+      "$type": "number",
+      "$value": "{spacing.mobile.lx-xxsmall}"
+    }
+  }
+}
